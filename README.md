@@ -23,4 +23,4 @@ MovieRec is a recoomendation system for movies built on Apache Spark.
 1. [Apache Spark](https://spark.apache.org/downloads.html) and pip install
 2. flask, flask_cors
 3. [scikit-learn](https://scikit-learn.org/stable/)
-
+4. download movie rating data to api/data (only ratings.csv):  https://files.grouplens.org/datasets/movielens/ml-25m.zip 
